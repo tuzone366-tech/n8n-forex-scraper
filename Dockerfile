@@ -1,4 +1,4 @@
-FROM n8nio/n8n:latest-buster
+FROM n8nio/n8n:latest-slim
 
 USER root
 
